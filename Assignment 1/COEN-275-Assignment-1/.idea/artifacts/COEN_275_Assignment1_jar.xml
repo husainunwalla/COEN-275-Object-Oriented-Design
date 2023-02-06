@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="COEN-275-Assignment1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/COEN_275_Assignment1_jar</output-path>
+    <root id="archive" name="COEN-275-Assignment1.jar">
+      <element id="module-output" name="COEN-275-Assignment1" />
+    </root>
+  </artifact>
+</component>
